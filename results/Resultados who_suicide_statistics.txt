@@ -1,0 +1,31 @@
+Medidas de Dispersión:
+
+Rango: El rango del número total de suicidios en el conjunto de datos va desde un mínimo de 0 a un máximo de 223,021 suicidios en un año. Esto muestra una amplia variabilidad en la magnitud de los suicidios.
+
+Desviación Estándar: La desviación estándar del número de suicidios es aproximadamente 850.96, lo que indica una variabilidad significativa alrededor de la media.
+
+Percentiles y Cuartiles: El primer cuartil (25%) tiene un valor de 45 suicidios, el segundo cuartil (mediana) es de 137 suicidios y el tercer cuartil (75%) es de 511 suicidios. El rango intercuartil (IQR) es la diferencia entre el tercer cuartil y el primer cuartil (511 - 45 = 466 suicidios), lo que indica una variación significativa en la distribución de los datos.
+
+Tendencia Central:
+
+Media: La media del número de suicidios en el conjunto de datos es de aproximadamente 2425.69. Esto representa un valor promedio de suicidios en todo el período y para todas las ubicaciones.
+
+Mediana: La mediana, que es el valor en el medio de los datos ordenados, es de aproximadamente 137 suicidios. Esto sugiere que la mitad de los años o ubicaciones tienen menos de 137 suicidios, mientras que la otra mitad tiene más.
+
+Moda: La moda en los datos puede variar según la categoría que se esté analizando (año, ubicación, grupo de edad, etc.). La moda representa el valor más común en una categoría específica.
+
+Interpretación de Gráficos:
+
+Histogramas: Al analizar un histograma de suicidios por año, se observa que el año con más suicidios es 1999, con 223,021 suicidios, mientras que el año con menos suicidios es 1979, con 14,416 suicidios.
+
+Gráficos de Barras: Al comparar suicidios por género, es evidente que los hombres tienen tasas de suicidio más altas en comparación con las mujeres en la mayoría de los años.
+
+Gráficos de Caja: Al observar los gráficos de caja de suicidios por grupo de edad, se nota que el grupo de edad "35-54 años" tiene una mediana más alta y una mayor variabilidad, lo que sugiere que este grupo tiene tasas de suicidio más altas y más variabilidad en los datos.
+
+Gráficos de Dispersión: Al examinar el gráfico de dispersión de suicidios por población, se observa que no hay una correlación clara entre la población y el número de suicidios. Sin embargo, se pueden observar valores atípicos.
+
+Es importante tener en cuenta que estos números y comparaciones se basan en el análisis de la base de datos específica que mencionaste. Los resultados pueden variar según la base de datos y las categorías que se estén analizando. Los datos concretos te permiten identificar tendencias, patrones y diferencias significativas en los suicidios a lo largo del tiempo y en diferentes categorías.
+
+
+
+
